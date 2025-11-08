@@ -1,8 +1,8 @@
-# Modified with Sundry.
+# Created using wingetcreate 1.10.3.0
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.10.0.schema.json
 
-PackageIdentifier: StirlingTools.StirlingPDF
-PackageVersion: 1.3.2
+PackageIdentifier: GodotLauncher.Launcher
+PackageVersion: 1.7.0
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.10.0
